@@ -92,7 +92,7 @@ body {
 @media (max-width: 675px) {
   .wrapper {
     grid-template-columns: 1fr;
-    grid-template-rows: 0.5fr 1fr;
+    grid-template-rows: auto auto;
   }
   .first {
     object-fit: fill;
