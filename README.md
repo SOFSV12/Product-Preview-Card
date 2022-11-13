@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/SOFSV12/Product-Preview-Card)
-<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Solution URL: [https://github.com/SOFSV12/Product-Preview-Card]
+- Live Site URL: [https://graceful-pavlova-8f2696.netlify.app/]
 
 ## My process
 
